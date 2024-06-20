@@ -1,0 +1,8 @@
+{
+  "realm": "genepid-j",
+  "auth-server-url": "http://spectra.nih.go.jp:8080/",
+  "ssl-required": "none",
+  "resource": "genepid-j",
+  "public-client": true,
+  "confidential-port": 0
+}
